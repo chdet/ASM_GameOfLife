@@ -1,0 +1,120 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\goldef.inc</FILE>
+  <FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE>
+  <FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE>
+  <FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\Debug\GameOfLife.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>GameOfLife.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>GameOfLife.map</FILE>
+  <FILE>GameOfLife.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <board><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>27</LINE></board>
+  <boardcpy><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>28</LINE></boardcpy>
+  <cur_byte><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>29</LINE></cur_byte>
+  <x_cursor><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>30</LINE></x_cursor>
+  <y_cursor><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>31</LINE></y_cursor>
+  <init><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>51</LINE></init>
+  <Timer1OverflowInterrupt><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>15</LINE></Timer1OverflowInterrupt>
+  <Timer0OverflowInterrupt><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>10</LINE></Timer0OverflowInterrupt>
+  <rst><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>133</LINE></rst>
+  <rst2><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>140</LINE></rst2>
+  <Load_GOL><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>214</LINE></Load_GOL>
+  <main><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>164</LINE></main>
+  <WaitLoop31><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>170</LINE></WaitLoop31>
+  <WaitLoop32><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>173</LINE></WaitLoop32>
+  <run_mode><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>194</LINE></run_mode>
+  <edit_mode><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>186</LINE></edit_mode>
+  <Poll_kb><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>8</LINE></Poll_kb>
+  <ColumnLoop3><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>34</LINE></ColumnLoop3>
+  <DataLoop3><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>39</LINE></DataLoop3>
+  <Check_dead_cell><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>91</LINE></Check_dead_cell>
+  <Check_live_cell><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>127</LINE></Check_live_cell>
+  <Boardcpy_to_Board><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>70</LINE></Boardcpy_to_Board>
+  <TestYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>181</LINE></TestYplus>
+  <TestYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>165</LINE></TestYminus>
+  <TestXplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>222</LINE></TestXplus>
+  <TestXminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>198</LINE></TestXminus>
+  <TestXplusYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>307</LINE></TestXplusYminus>
+  <TestXminusYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>337</LINE></TestXminusYplus>
+  <TestXYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>276</LINE></TestXYplus>
+  <TestXYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>247</LINE></TestXYminus>
+  <stop_dc_chk><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>112</LINE></stop_dc_chk>
+  <stop_lc_chk><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>150</LINE></stop_lc_chk>
+  <positive_Yminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>170</LINE></positive_Yminus>
+  <liveYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>178</LINE></liveYminus>
+  <bounded_Yplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>187</LINE></bounded_Yplus>
+  <liveYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>195</LINE></liveYplus>
+  <positive_Xminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>203</LINE></positive_Xminus>
+  <same_byte1><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>214</LINE></same_byte1>
+  <liveXminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>219</LINE></liveXminus>
+  <bounded_Xplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>228</LINE></bounded_Xplus>
+  <same_byte2><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>239</LINE></same_byte2>
+  <liveXplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>244</LINE></liveXplus>
+  <positive_XYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>256</LINE></positive_XYminus>
+  <same_Xbyte><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>268</LINE></same_Xbyte>
+  <liveXYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>273</LINE></liveXYminus>
+  <bounded_XYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>287</LINE></bounded_XYplus>
+  <same_Xbyte4><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>299</LINE></same_Xbyte4>
+  <liveXYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>304</LINE></liveXYplus>
+  <bounded_XplusYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>317</LINE></bounded_XplusYminus>
+  <same_Xbyte2><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>329</LINE></same_Xbyte2>
+  <liveXplusYminus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>334</LINE></liveXplusYminus>
+  <bounded_XminusYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>347</LINE></bounded_XminusYplus>
+  <same_Xbyte3><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>359</LINE></same_Xbyte3>
+  <liveXminusYplus><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\sim_subroutines.inc</FILE><LINE>364</LINE></liveXminusYplus>
+  <Load_squad><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>285</LINE></Load_squad>
+  <Load_gun><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>264</LINE></Load_gun>
+  <Load_pulsar><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>243</LINE></Load_pulsar>
+  <Up><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>69</LINE></Up>
+  <Right><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>190</LINE></Right>
+  <Set_cell><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>221</LINE></Set_cell>
+  <Left><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>159</LINE></Left>
+  <Down><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>115</LINE></Down>
+  <Clear><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>306</LINE></Clear>
+  <go_up><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>98</LINE></go_up>
+  <go_down><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>143</LINE></go_down>
+  <update_board><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>184</LINE></update_board>
+  <go_left><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>179</LINE></go_left>
+  <update_board2><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>215</LINE></update_board2>
+  <go_right><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>210</LINE></go_right>
+  <set_bit><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>238</LINE></set_bit>
+  <unset_bit><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>231</LINE></unset_bit>
+  <Clear_copy><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>323</LINE></Clear_copy>
+  <pulsar><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>233</LINE></pulsar>
+  <pulsarcpy><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>252</LINE></pulsarcpy>
+  <Gun><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>234</LINE></Gun>
+  <guncpy><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>273</LINE></guncpy>
+  <Squad><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>236</LINE></Squad>
+  <squadcpy><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>294</LINE></squadcpy>
+  <ClearLoop><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>311</LINE></ClearLoop>
+  <ClearLoop2><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\kb_subroutines.inc</FILE><LINE>328</LINE></ClearLoop2>
+  <Print_board><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>39</LINE></Print_board>
+  <ColumnLoop1><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>46</LINE></ColumnLoop1>
+  <DataLoop1><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>54</LINE></DataLoop1>
+  <ColumnLoop2><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>68</LINE></ColumnLoop2>
+  <DataLoop2><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>76</LINE></DataLoop2>
+  <RowLoop><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>91</LINE></RowLoop>
+  <WaitLoop21><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>105</LINE></WaitLoop21>
+  <ResetDataAdr><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\ldmatrix_subroutines.inc</FILE><LINE>120</LINE></ResetDataAdr>
+  <GOL><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>235</LINE></GOL>
+  <golcpy><FILE>C:\Users\Charles\OneDrive - Université Libre de Bruxelles\ULB\EE MA1\Sensors and Microsystem Electronics\uC\TaskSolutions\GameOfLife\main.asm</FILE><LINE>220</LINE></golcpy>
+ </LABELS>
+</ASSEMBLER_INFO>

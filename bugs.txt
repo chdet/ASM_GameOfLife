@@ -1,0 +1,12 @@
+* Visual glitches when simulation loop is running, mdue to the fact that the interrupt occurs inside the refresh loop of the led matrix
+	Solutions found: - disable interrupts inside refresh loop: WORKS
+			 - PUSH & POP every register used in the interrupt
+
+
+* Led flickering during simulation, maybe due to the fact that rows stay on longer when interrupt occurs
+	No solution found
+
+* X_edges are not taken into account properly, bits check the next adress altough they should be at the edge of the frame.
+	Probably due to incorrect coordinates checks
+
+* Some areas of the screen kill anything that passes through, very likely to be the same cause as previous bug

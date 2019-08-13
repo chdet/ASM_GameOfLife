@@ -1,0 +1,3 @@
+* Add a timer to periodically reset the press flag, allowing the user to hold a direction.
+
+* Increase the memory area of the game to allow cells to leave the play area without freezing at the edge in some cases
